@@ -1,0 +1,27 @@
+{
+  "name": "wanderlust",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000a\u0000n\u0000d\u0000e\u0000r\u0000L\u0000u\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/kapseabhishek50-cyber/WanderLust#readme",
+  "bugs": {
+    "url": "https://github.com/kapseabhishek50-cyber/WanderLust/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapseabhishek50-cyber/WanderLust.git"
+  },
+  "license": "ISC",
+  "author": "Abhishek Kapse",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "ejs-mate": "^4.0.0",
+    "express": "^5.2.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^9.7.4"
+  }
+}
